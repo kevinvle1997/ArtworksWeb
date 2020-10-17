@@ -1,0 +1,1197 @@
+commit 5e8cc3494deb72957222d1f9cc9d84c7b35ffece
+Merge: 3bbd583 26dcc3b
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Thu Apr 23 16:03:56 2020 -0500
+
+    Merge branch 'master' of https://gitlab.com/brendan56/project1
+
+commit 3bbd583efaca80c9974033015a38bc6c9128b273
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Thu Apr 23 16:03:36 2020 -0500
+
+    adding logs
+
+commit 26dcc3b2ae9b9b90e4c2b1d2d91ebc05fdc1cacc
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Thu Apr 23 14:40:31 2020 -0500
+
+    updated status
+
+commit 38a6e8ab1181271afb06ac7e26fa0ffd43521b55
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Thu Apr 23 14:27:58 2020 -0500
+
+    improve doc and adds links
+
+commit d7e20ebe6cc3123d26791f7835df70700b1ce82c
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Wed Apr 22 18:43:15 2020 -0500
+
+    added to about
+
+commit 01373ce0ee33c640bd07e071402cee90766b3a87
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Wed Apr 22 16:44:23 2020 -0500
+
+    fixes search on the search.html page
+
+commit 368304d50406703eee46872c01080409bb46fdfc
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Wed Apr 22 16:38:42 2020 -0500
+
+    small bug fix in search html
+
+commit 0fbdb32e75ca963c13329a18e4b2b46835c6d51d
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Wed Apr 22 16:10:51 2020 -0500
+
+    fixe search on other pages
+
+commit 6039d440628f6d51dc517ac54c60e1acc193c5ed
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Wed Apr 22 15:52:29 2020 -0500
+
+    Made search html nice and pretty
+
+commit d618a27bab06d0bbd9d98248e301385e9ccefd3d
+Merge: d4ff58b a155633
+Author: brendan56 <brendan.panici56@gmail.com>
+Date:   Wed Apr 22 15:14:01 2020 -0500
+
+    Merge branch 'master' of https://gitlab.com/brendan56/project1
+
+commit d4ff58b5ffa4c2dda825ddf4d38f92d13bb63942
+Author: brendan56 <brendan.panici56@gmail.com>
+Date:   Wed Apr 22 15:13:17 2020 -0500
+
+    app
+
+commit a15563331cf87dca3dd62c7b2c8440badb8e63e0
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Wed Apr 22 15:04:12 2020 -0500
+
+    change yaml file
+
+commit 52496dc11eeb933d4d64a64a0fd5fcc2e04973e7
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Wed Apr 22 14:47:18 2020 -0500
+
+    ad nav search to other pages
+
+commit c3ef97bce64aaf5f0627c994952dea4856cecd1e
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Wed Apr 22 14:35:30 2020 -0500
+
+    search functions
+
+commit 2f7c9b564c375c1c2f8862c11dda7de2034caddb
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Wed Apr 22 12:22:27 2020 -0500
+
+    Squashed some design bugs
+
+commit b548aed188ce4b789877616dd5a606400fb42662
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Wed Apr 22 12:10:44 2020 -0500
+
+    Finished the about page
+
+commit b5c6b047044979654740865d4858e20ab9baf1f1
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Tue Apr 21 20:18:56 2020 -0500
+
+    efficeny increase
+
+commit ebbbd48b2c5ddccf722cf0b02272f745817ed892
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Tue Apr 21 19:32:32 2020 -0500
+
+    adds documentation and fixes some bugs
+
+commit ede31d1d8ba3527d7bfd42d87799eb859257ce26
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Tue Apr 21 18:26:55 2020 -0500
+
+    testing
+
+commit bc5ec9509e313ab92e55847e73f97d4e382d2a61
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Fri Apr 17 23:11:34 2020 -0500
+
+    more data
+
+commit 7681a0a3e44887d8cd42dba3f1a23d76e4801091
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Fri Apr 17 22:56:31 2020 -0500
+
+    more data
+
+commit 4b131bc830103a85282bb5b32917285d3277d44f
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Fri Apr 17 22:30:37 2020 -0500
+
+    more data
+
+commit 7359abe56ade0b30a3f83e039841df7b9645fff7
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Fri Apr 17 22:18:06 2020 -0500
+
+    more data
+
+commit e447596df2a3dc292ae56762a1486d2b45dd8af6
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Fri Apr 17 22:09:46 2020 -0500
+
+    more data
+
+commit 1c6f8148a6d9066507e56d7bf2373dd97b269baf
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Fri Apr 17 21:51:27 2020 -0500
+
+    more data
+
+commit b858d4721bbbcb303dcae23e26bde5f2267494b0
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Fri Apr 17 21:36:03 2020 -0500
+
+    more data
+
+commit 60bd8e21fae9e481eb89800c2d5bb5ac7f3deb4e
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Fri Apr 17 21:23:37 2020 -0500
+
+    more data
+
+commit af4a55ab2a650eb71ef80367673621e4fd2d45f3
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Fri Apr 17 20:56:35 2020 -0500
+
+    more data
+
+commit 161aeae62e1f2e8f5ed49d69220eaa7fbfe8e961
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Fri Apr 17 20:27:57 2020 -0500
+
+    testing
+
+commit 6b4623497f76d7dd108d5b2e4f44fd955e97e0f8
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Fri Apr 17 20:16:01 2020 -0500
+
+    fix pipeline fail
+
+commit cd45c199de4008b6532aa9ef317fd118c0c214e2
+Merge: cf059e9 fa21372
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Fri Apr 17 20:12:17 2020 -0500
+
+    Merge branch 'master' of https://gitlab.com/brendan56/project1
+
+commit cf059e9af83e36b411c4307d98b2e22b0761a3f8
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Fri Apr 17 20:11:59 2020 -0500
+
+    test
+
+commit fa2137246acc483e7a25b4a12cc9ae74cd8c3dcf
+Author: brendan panici <brendan.panici@utexas.edu>
+Date:   Fri Apr 17 22:54:34 2020 +0000
+
+    Update app.yaml
+
+commit e54f88e3ed7abbbc55b69f72d687aa0e4d6ac55c
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Fri Apr 17 17:39:33 2020 -0500
+
+    testing GCP
+
+commit 1955a107359172d4126e5ac4d6429157f141c7e8
+Author: brendan panici <brendan.panici@utexas.edu>
+Date:   Fri Apr 17 21:59:20 2020 +0000
+
+    Update app.yaml
+
+commit 5b382e05a60e2f74ce9d47f516e62ae0e1edbf4b
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Fri Apr 17 16:51:49 2020 -0500
+
+    faster loading
+
+commit 286cac83e885f9bafdee82a366e50f07f5021749
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Thu Apr 2 21:46:57 2020 -0500
+
+    logs
+
+commit bf30cadb6ae6f38dfa46d886d6dcb661edf467fb
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Thu Apr 2 21:23:04 2020 -0500
+
+    Unit test
+
+commit 540bf553ee777209a396b18adb2e604c6f2c3b8a
+Author: brendan panici <brendan.panici@utexas.edu>
+Date:   Fri Apr 3 01:59:43 2020 +0000
+
+    Update models.py
+
+commit 9c377f4cbb63ea8a677d40b6cea632e87e50c9ac
+Author: brendan panici <brendan.panici@utexas.edu>
+Date:   Fri Apr 3 01:45:27 2020 +0000
+
+    Update app.yaml
+
+commit 65de5b1e05a32e648482ed1762b43779d5d0b6f1
+Author: brendan panici <brendan.panici@utexas.edu>
+Date:   Fri Apr 3 01:33:43 2020 +0000
+
+    Update app.yaml
+
+commit b7978ee2bd5117b2ca55d38ed13b279feb7345ed
+Author: brendan panici <brendan.panici@utexas.edu>
+Date:   Fri Apr 3 01:33:02 2020 +0000
+
+    Update models.py
+
+commit a7b8cb3c58da745d851005c837e5681adfc14657
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Thu Apr 2 20:28:33 2020 -0500
+
+    rework of createdb
+
+commit 4d1d7eff325eea9f8da202bd8b66d3fb87a9e809
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Thu Apr 2 19:31:20 2020 -0500
+
+    requirements.txt
+
+commit 4009575edb262402cfe747839dad16504a8fad57
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Thu Apr 2 19:24:52 2020 -0500
+
+    checking conditions
+
+commit e595292dba8ce25c90ff0d002467b59f8a821bdd
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Thu Apr 2 18:57:32 2020 -0500
+
+    Added # of commits per person
+
+commit 5da5715ef50d610e5eaae28177bb60b4c1d53317
+Author: Kevin Le <kevinvle1997@gmail.com>
+Date:   Thu Apr 2 18:54:01 2020 -0500
+
+    added test cases in the about page!
+
+commit 6a8dec21064d6b2912e042f659fb08a1108bc516
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Thu Apr 2 17:52:07 2020 -0500
+
+    testing GCP
+
+commit b575ef56606d32ad01e96a0d5e10304548dbb878
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Thu Apr 2 17:25:04 2020 -0500
+
+    comments
+
+commit 64b84f22606f61fa85a624b657513a37a98a5f46
+Author: brendan panici <brendan.panici@utexas.edu>
+Date:   Thu Apr 2 21:23:12 2020 +0000
+
+    Update app.yaml
+
+commit 253fea60c587c12f031e4ba9fdccbed5dabfc93a
+Author: brendan panici <brendan.panici@utexas.edu>
+Date:   Thu Apr 2 20:53:18 2020 +0000
+
+    Update models.py
+
+commit 66ff0f7b1a3d4671abae42b8a8001392a5f3c505
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Thu Apr 2 14:30:57 2020 -0500
+
+    small fixes
+
+commit d5b0865e5ac1c8707eaa8c0bf7f0c3d9190d8f3d
+Merge: 700ab7a dd87eb4
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Thu Apr 2 14:11:21 2020 -0500
+
+    Merge branch 'master' of https://gitlab.com/brendan56/project1
+
+commit 700ab7a6bfca98ed2ad5ea73b6ba270e789f201b
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Thu Apr 2 14:10:50 2020 -0500
+
+    Made design changes, including nav bar, images, and cleaned up view html files
+
+commit dd87eb4ba2f94e20c4282ca18b376d130972fa0e
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Thu Apr 2 14:04:46 2020 -0500
+
+    testing a relationship in test.py
+
+commit 0b2c0abba7adaf7998bdc8868bd55696a78af114
+Author: brendan panici <brendan.panici@utexas.edu>
+Date:   Thu Apr 2 18:44:44 2020 +0000
+
+    Update app.yaml
+
+commit 9df669f7bbc8086f38bb5e1a7b9416dccfd27daa
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Thu Apr 2 13:23:41 2020 -0500
+
+    type in testcases
+
+commit a36d8b8308ba54b210de93306561356acd132aa4
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Thu Apr 2 13:16:23 2020 -0500
+
+    requirements change
+
+commit f56c23206f830f980ab53d0e60e0797971edf1d5
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Thu Apr 2 13:08:24 2020 -0500
+
+    fix typo in requiremens
+
+commit 0de4150b7c3f21703160e2dd77a2cd7b64351800
+Author: Jingqi Cheng <cjenny@cs.utexas.edu>
+Date:   Thu Apr 2 13:07:14 2020 -0500
+
+    test
+
+commit dd6fe0bbaa922a507e348f7ea13b1845e0f065b4
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Thu Apr 2 13:03:36 2020 -0500
+
+    update requirements
+
+commit f4d416b80d2a386985cc71fb035382075ef6c420
+Author: Jingqi Cheng <cjenny@cs.utexas.edu>
+Date:   Thu Apr 2 12:53:50 2020 -0500
+
+    3 tests per model
+
+commit 5230eadce7bbc251ac8d77e71801b314e45d900c
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Thu Apr 2 12:39:55 2020 -0500
+
+    app changes
+
+commit 80ecdd0333c857de84bbcbe4e865fe67c14bdd8e
+Merge: 2360b31 66f9fd5
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Thu Apr 2 12:32:58 2020 -0500
+
+    Merge branch 'master' of https://gitlab.com/brendan56/project1
+
+commit 2360b31613b6c980790c0ba6e4b9025b8cb5a8c9
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Thu Apr 2 12:32:22 2020 -0500
+
+    Made View_Museum a bit cleaner
+
+commit 66f9fd54e54b7deb6a89bfd74f2d188866d7fd42
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Thu Apr 2 12:22:19 2020 -0500
+
+    gcp deploy
+
+commit e059fd109f5857896642110467bcf4dd1056cdd6
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Thu Apr 2 11:07:44 2020 -0500
+
+    fixed artwork info for view artist
+
+commit bf43cc8bad514afa351a5bccda2a7ee28ab95717
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Thu Apr 2 10:26:34 2020 -0500
+
+    fix PK problem for artwork.html
+
+commit 7d113005d8af345120544ced9b2a795a3ca46434
+Merge: 5c7987e 324786d
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Thu Apr 2 02:00:13 2020 -0500
+
+    Merge branch 'master' of https://gitlab.com/brendan56/project1
+
+commit 5c7987eafda65dd5fc137120adc58dfb0b8d5003
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Thu Apr 2 01:57:22 2020 -0500
+
+    added more testcases
+
+commit 324786d90bb1afdfbf18592c2628dfba9c8b9f67
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Thu Apr 2 00:16:18 2020 -0500
+
+    Artwork page functional but not view_artwork
+
+commit d1ec5472c3099439c8641c23def944239b5ebf3c
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Wed Apr 1 23:46:47 2020 -0500
+
+    Artists Page and view_artist is functional
+
+commit 261381189493f862d23baa03192b219079d19961
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Wed Apr 1 22:06:48 2020 -0500
+
+    View_Museum is functional and made some other small changes
+
+commit 9a8562d5906b06f006d22eee96083551f66c7a44
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Wed Apr 1 20:39:07 2020 -0500
+
+    fixes museum.html
+
+commit d15c59d220d33b571cf9b81505eea580fe5efb84
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Wed Apr 1 19:33:36 2020 -0500
+
+    Attempted to connect database
+
+commit 60a228fbe5e0fbf8794b28cee501ac4e340a90c5
+Author: brendan panici <brendan.panici@utexas.edu>
+Date:   Thu Apr 2 00:08:29 2020 +0000
+
+    Update models.py
+
+commit 9e5a9c3c0cd81ce03aca303313cde28e9b7fd9c2
+Author: brendan panici <brendan.panici@utexas.edu>
+Date:   Thu Apr 2 00:07:23 2020 +0000
+
+    Update .gitlab-ci.yml
+
+commit f9a30eab63705c961012be631385264e37524508
+Author: brendan panici <brendan.panici@utexas.edu>
+Date:   Thu Apr 2 00:06:30 2020 +0000
+
+    Update test.py
+
+commit a118c14e1609c9b9b5e2cba04f81e34d22d11af4
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Wed Apr 1 18:35:45 2020 -0500
+
+    testing CI
+
+commit 5412ab2d8888fde8141f98d372b0b7c60633fbf3
+Author: brendan panici <brendan.panici@utexas.edu>
+Date:   Wed Apr 1 23:23:09 2020 +0000
+
+    Update test.py
+
+commit 1abcbcf182c4490aaab71ce876222c4ee471981d
+Author: brendan panici <brendan.panici@utexas.edu>
+Date:   Wed Apr 1 23:03:18 2020 +0000
+
+    Update .gitlab-ci.yml
+
+commit e9778eda0f287c1532b9547fdd1e12b27aa376c8
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Wed Apr 1 17:55:18 2020 -0500
+
+    forgot to add this for pipeline
+
+commit 440783cf5e3f782169177fe4cf2b52e12409c08c
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Wed Apr 1 17:50:34 2020 -0500
+
+    testing CI
+
+commit 21add91853ff8f1aa4d226aa594edd726d8fe5fa
+Author: Jingqi Cheng <cjenny@cs.utexas.edu>
+Date:   Wed Apr 1 17:23:38 2020 -0500
+
+    gitlab yml
+
+commit ad8645e03b247c2508a60fff536212e8027bf257
+Author: brendan panici <brendan.panici@utexas.edu>
+Date:   Wed Apr 1 22:20:12 2020 +0000
+
+    Update .gitlab-ci.yml
+
+commit 53078df94233c6ae945dd95f755437230a8b4ca6
+Author: Jingqi Cheng <cjenny@cs.utexas.edu>
+Date:   Wed Apr 1 17:15:56 2020 -0500
+
+    db name
+
+commit 9171edb9d2ad7c64e2d87d8cf7d8b62402dfa766
+Author: Kevin Le <kevinvle1997@gmail.com>
+Date:   Wed Apr 1 17:12:44 2020 -0500
+
+    fixed test cases!
+
+commit 888cafe1e958f50150ad251c93a87fafde7026a9
+Author: Kevin Le <kevinvle1997@gmail.com>
+Date:   Wed Apr 1 17:03:49 2020 -0500
+
+    experimented with test cases
+
+commit e00f7b64897334de3b9bde5c473091a22bcef9a1
+Merge: 7d6440e 27b2d4e
+Author: Kevin Le <kevinvle1997@gmail.com>
+Date:   Wed Apr 1 16:26:40 2020 -0500
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 7d6440e2b24df38732d79a1c1b2b33ad70e2791a
+Author: Kevin Le <kevinvle1997@gmail.com>
+Date:   Wed Apr 1 16:26:26 2020 -0500
+
+    fixed some bugs in the testcases
+
+commit 27b2d4e8f47578ed43cee145dc19ea497937cbf3
+Author: Jingqi Cheng <cjenny@cs.utexas.edu>
+Date:   Wed Apr 1 16:17:39 2020 -0500
+
+    gitlab yml file
+
+commit 7d034435a8419081c4537b94ae935173339ed7ba
+Author: Jingqi Cheng <cjenny@cs.utexas.edu>
+Date:   Wed Apr 1 15:04:33 2020 -0500
+
+    unittests
+
+commit 360871d87dfd0f316936c47a1263f6a60a0a7e25
+Author: Jingqi Cheng <cjenny@cs.utexas.edu>
+Date:   Wed Apr 1 15:03:42 2020 -0500
+
+    unittests
+
+commit 9d5c6bfc8f2381ac38c1226e7d5f969db2d90658
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Wed Apr 1 11:09:02 2020 -0500
+
+    implements database
+
+commit 632214c721df8f3b0f05d62fe70adce14afd80df
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Wed Apr 1 00:30:54 2020 -0500
+
+    fixes a number of bugs in data modeling
+
+commit b7ab9e526e6a78b8c775fafd510ec6beb61023d9
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Tue Mar 31 22:50:03 2020 -0500
+
+    Added updated images for tools and data sources
+
+commit 2cd9c3ff4837df9053cf44cd017cdea6a39ae076
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Tue Mar 31 22:45:48 2020 -0500
+
+    debugged a create_db.py
+
+commit 503fdde23020fe69fab276537a03767803ef87fb
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Tue Mar 31 21:50:52 2020 -0500
+
+    edited models.py and fixing create_db(in progress)
+
+commit bd9d206c906f62aa7015f237a97b9c3baba021ce
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Tue Mar 31 21:00:16 2020 -0500
+
+    changed password
+
+commit 2b6440129b2223d151053006afd8257a8eef6f39
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Tue Mar 31 20:59:10 2020 -0500
+
+    added relationship
+
+commit ae66c9d19499c5753edfd218ee91b351727c1116
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Tue Mar 31 19:47:48 2020 -0500
+
+    fixes some bugs and updates models.py
+
+commit 49a60e6811195a5f0bad5238cd6db543c08b08db
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Tue Mar 31 19:21:33 2020 -0500
+
+    reformat createdb.py
+
+commit 40349146b5fa20ef25e9ba720fd1023297999519
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Tue Mar 31 18:58:21 2020 -0500
+
+    fixes bugs in create_db
+
+commit 3e90cb9affa7775737d7c6e22cda402f04e57421
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Tue Mar 31 18:51:59 2020 -0500
+
+    Added the create_artwork function inside create_db.py
+
+commit 732b7e39f9954a31bb1e2d6cf8091cc3baf02d70
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Tue Mar 31 18:12:48 2020 -0500
+
+    update models.py artist to match create_db
+
+commit 11405dce4f79dbb1233ef07080297024f9880779
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Tue Mar 31 18:11:13 2020 -0500
+
+    create artist added
+
+commit bfc829601dcf2d2e2385e38eebddcd85ea87e97c
+Merge: 227421f 7bf5a7d
+Author: Kevin Le <kevinvle1997@gmail.com>
+Date:   Tue Mar 31 17:41:21 2020 -0500
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       main.py
+
+commit 227421fd07083f6981fd65e380dd43b47a803eb7
+Author: Kevin Le <kevinvle1997@gmail.com>
+Date:   Tue Mar 31 17:40:27 2020 -0500
+
+    added pushing the relevant data to view_museum
+
+commit 7bf5a7dee6ad1a571905d9bdb223828895479d4c
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Tue Mar 31 17:37:33 2020 -0500
+
+    access to database in main.py
+
+commit 371d60f3e4f8d2744e80722b61be4a118104c76c
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Tue Mar 31 16:14:31 2020 -0500
+
+    uncomments museum class in models.py, adds museum_id as a variable, changes database name
+
+commit a6d5db4fbb2eed27ddb3690975aba06604bd1a89
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Tue Mar 31 16:11:01 2020 -0500
+
+    creates database for museums
+
+commit e6ef4e62cd535fef35713260c42de5593c3bc931
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Tue Mar 31 15:21:45 2020 -0500
+
+    adds other URLs for data
+
+commit 39c778fcf2058b0a2d92938041799b3bd5738bce
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Tue Mar 31 12:17:35 2020 -0500
+
+    adds dict to import data
+
+commit 990a4a2971c6fcc6caa7bcb2f97147c50825da49
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Tue Mar 31 02:42:29 2020 -0500
+
+    minor changes
+
+commit b92037bbc56e17936fe70bd059d36de50d9d3bb5
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Tue Mar 31 01:15:11 2020 -0500
+
+    edited models.py
+
+commit 4f31850681b2204b457a852b6bbbd85ff727b6a7
+Author: Kevin Le <kevinvle1997@gmail.com>
+Date:   Mon Mar 30 23:58:53 2020 -0500
+
+    added data scraping from github!
+
+commit 54e0af2c5039af7fc16b7260fa4cd7348fe81dee
+Merge: c79883b 28d4d29
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Mon Mar 30 20:14:23 2020 -0500
+
+    Merge branch 'master' of https://gitlab.com/brendan56/project1
+
+commit c79883b1ed81522206b34bbfffbd50127d545345
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Mon Mar 30 20:13:43 2020 -0500
+
+     adds files for modeling data
+
+commit 28d4d29ed508bf19c08582ae66d2dd65f4fe1074
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Mon Mar 30 19:14:38 2020 -0500
+
+    Made Dynamic museum webpage changes
+
+commit 60a361d8ed1958a445ec398b430e4a269f6cda52
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Mon Mar 30 12:22:59 2020 -0500
+
+    Just some more changes to museum files, added images for museums
+
+commit d1cf99662a413e0688ea8737fe102c660a16cc0c
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Mon Mar 30 11:35:21 2020 -0500
+
+    Added museums table, created CSV of museum data, and created view_museum html
+
+commit b7916ee103d3c33e744ef47b4197463dc1af982f
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Sun Mar 29 22:48:50 2020 -0500
+
+    #19 adds html for museums
+
+commit 3704c47fd0141b9959bbf251004a9044a84fad1d
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Mon Feb 24 11:18:43 2020 -0600
+
+    implements gitlab api - needs to be displayed on about.html
+
+commit 4bb7703b17743cdf388af06616222ad334fa566b
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Thu Feb 20 17:27:02 2020 -0600
+
+    last touches to phase 1 - updates stats and generates logs
+
+commit 8fd6bc15e70857898fe2936117786b9f0bb3a6e5
+Author: Kevin Le <kevinvle1997@gmail.com>
+Date:   Thu Feb 20 17:09:10 2020 -0600
+
+    wait these are the images I forgot to add them to the commit!
+
+commit 221bb965b5184c5eaa7fc1b5c060c54a95dd2d63
+Author: Kevin Le <kevinvle1997@gmail.com>
+Date:   Thu Feb 20 17:08:17 2020 -0600
+
+    added images and additional artworks!
+
+commit d782489758dbae89400e6908e2d44300ddd0de87
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Thu Feb 20 12:44:18 2020 -0600
+
+    fixed email in JSON
+
+commit 023be7503f555dfabba334461acb2f51a39a62e0
+Author: Jingqi Cheng <cjenny@cs.utexas.edu>
+Date:   Thu Feb 20 11:10:33 2020 -0600
+
+    renamed artwork imgs w objectid
+
+commit e7206217b30dfe6341c559537fd8304addc38fe3
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Thu Feb 20 10:55:37 2020 -0600
+
+    updated json
+
+commit 9016c4a9ebbacb14bea832fc3280f0c532cc7931
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Thu Feb 20 09:02:54 2020 -0600
+
+    improves artist and artwork design - adds margins -displays info better
+
+commit 686ddf42d46b041f2bc49d7a65ff1ee6be2855b1
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Thu Feb 20 08:19:57 2020 -0600
+
+    Closes #15, #14 - adds margins to tables
+
+commit 55a8e0567d755ef07cf570ac6b9e437facac4661
+Author: Kevin Le <kevinvle1997@gmail.com>
+Date:   Thu Feb 20 01:10:03 2020 -0600
+
+    cleaned up main.py!
+
+commit 0d3915b080c84e7bc8f0bbb390abcbe9309fdf6b
+Author: Kevin Le <kevinvle1997@gmail.com>
+Date:   Thu Feb 20 01:07:31 2020 -0600
+
+    updated json!
+
+commit ba2584153331c48f18eb07d03f27bef2d83792aa
+Author: Jingqi Cheng <cjenny@cs.utexas.edu>
+Date:   Thu Feb 20 00:16:48 2020 -0600
+
+    modified view_artwork.html
+
+commit 5eda134bc36d2a1f6ace00eb5309e650347edc37
+Author: Jingqi Cheng <cjenny@cs.utexas.edu>
+Date:   Thu Feb 20 00:00:06 2020 -0600
+
+    modified view_artist.html
+
+commit 3601b1c8d57f0c0414fc99080c7171a84f83d667
+Merge: 6d9b07c 2b7b2df
+Author: Jingqi Cheng <cjenny@cs.utexas.edu>
+Date:   Wed Feb 19 22:31:22 2020 -0600
+
+    Merge branch 'master' of https://gitlab.com/brendan56/project1
+
+commit 6d9b07c0ed25c67a13e01795c07b153daf3c884b
+Author: Jingqi Cheng <cjenny@cs.utexas.edu>
+Date:   Wed Feb 19 22:31:12 2020 -0600
+
+    json and images
+
+commit 2b7b2df312abfbe160d270cac89eb8d68144d85d
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Wed Feb 19 21:59:55 2020 -0600
+
+    Made small change to table
+
+commit c8bbaf2de6708e972b6cde3d41489721110d45fd
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Wed Feb 19 21:53:53 2020 -0600
+
+    Fixed table icons
+
+commit dba8e6b4f506af34016cfb6d07b1e5011c188c11
+Merge: 6c02793 ea67bde
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Wed Feb 19 21:27:35 2020 -0600
+
+    json file
+
+commit 6c02793f87362428c1fadc1ebba519e6e5958fc8
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Wed Feb 19 21:12:22 2020 -0600
+
+    json file
+
+commit ea67bde7b9f72be42093d7d33acb205b7e1de85f
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Wed Feb 19 21:09:54 2020 -0600
+
+    Added my info to JSON
+
+commit a46706ffea6ca2bbbd0243ba80a6ffb60737e772
+Merge: a1d0b2e b3e4fa3
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Wed Feb 19 21:07:20 2020 -0600
+
+    Merge branch 'master' of https://gitlab.com/brendan56/project1
+
+commit a1d0b2eb6c174b03066a19c27e8a7c70b5895b83
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Wed Feb 19 21:05:36 2020 -0600
+
+    cleaned up main.py
+
+commit b3e4fa37ef599f3021e4f26d1742e22acdc13105
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Wed Feb 19 20:59:15 2020 -0600
+
+    json file
+
+commit 409e428d9baa5968aa140b106a7dbf8797c20d10
+Merge: d6a6332 8bddece
+Author: Jingqi Cheng <cjenny@cs.utexas.edu>
+Date:   Wed Feb 19 20:33:56 2020 -0600
+
+    nav bar on view files and images on view_artist
+
+commit d6a63328e5d3f56d363153b846486bf01ae47a93
+Author: Jingqi Cheng <cjenny@cs.utexas.edu>
+Date:   Wed Feb 19 20:30:58 2020 -0600
+
+    nav bar on view files and link images on view_artist
+
+commit 8bddecec827641fc050ec49ee65fa0571f19284a
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Wed Feb 19 20:17:27 2020 -0600
+
+    Closes #9, #8 adds requirements and yaml
+
+commit c708183a13526c12a14d96367b0be8de84553795
+Author: Jingqi Cheng <cjenny@cs.utexas.edu>
+Date:   Wed Feb 19 15:29:32 2020 -0600
+
+    minor changes to artist.csv + artwork.csv
+
+commit b22ddd418fbfcf8fca482f0da9a224d8e2f0cf50
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Wed Feb 19 15:09:26 2020 -0600
+
+    changes to file - artwork name
+
+commit 492b1cbdce00edfa724b778b5577de7c6e3889c8
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Wed Feb 19 13:00:43 2020 -0600
+
+    small changes to view file
+
+commit 78e696bec47f2418129370905ee3dfa4d6d00baf
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Wed Feb 19 12:35:25 2020 -0600
+
+    Implemented linking across artist and artwork
+
+commit 0fe65e4eb7ac9a93767eb0108952cef523b04203
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Wed Feb 19 11:50:42 2020 -0600
+
+    remove search from nav bar. changes id names in view functions
+
+commit c35b1a33f3c27afc05f0d5111219a48587961a02
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Wed Feb 19 11:41:12 2020 -0600
+
+    Copied table to artists
+
+commit f4c2a8b1b7187c42eae516b423317dc70e38ed18
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Wed Feb 19 11:29:05 2020 -0600
+
+    deleted individual artist and artwork files
+
+commit 463bb7a2c16923beb39ae2b2c12496de9c89e89f
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Wed Feb 19 11:27:14 2020 -0600
+
+    added some js and css
+
+commit 89ba5110b5e7f426d73c108898dfc595df9862eb
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Wed Feb 19 11:25:15 2020 -0600
+
+    properly working artwork table
+
+commit 39cb603fb515cfdafcbc6e9ba6bc1ed4da9dd05d
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Wed Feb 19 11:12:53 2020 -0600
+
+    Added artwork data table
+
+commit 393c5f747b788c30813734e977a38d704c474d96
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Wed Feb 19 11:09:30 2020 -0600
+
+    Added JS and CSS files
+
+commit 7cf1c1ef62dfaaca90e43ff29af34a243821d6c9
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Wed Feb 19 10:55:00 2020 -0600
+
+    url fix
+
+commit 7246ba33e0baf3e0a55052a88ce2006fe2128e72
+Merge: 022b2ae 7809464
+Author: Jingqi Cheng <cjenny@cs.utexas.edu>
+Date:   Wed Feb 19 09:30:26 2020 -0600
+
+    Merge branch 'master' of https://gitlab.com/brendan56/project1
+
+commit 022b2ae44e1fac0db8838dd612c2f8c984cc8e8d
+Author: Jingqi Cheng <cjenny@cs.utexas.edu>
+Date:   Wed Feb 19 09:29:28 2020 -0600
+
+    carousel images
+
+commit 78094640ffabe39f2c928eb5accd99ba1a23ecb6
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Wed Feb 19 08:49:53 2020 -0600
+
+    fixes routing issue
+
+commit 33387ccd6bd6f42cb322ef08789ad17c995df9d2
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Tue Feb 18 23:38:47 2020 -0600
+
+    cropped the picture
+
+commit fa2cf202924bef5a3dfe265dc9acce0ee71b358f
+Author: Jingqi Cheng <cjenny@cs.utexas.edu>
+Date:   Tue Feb 18 22:36:10 2020 -0600
+
+    update index.html and about.html
+
+commit 401fb3870a754c0b5fd00060005fd88ad4eb4344
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Tue Feb 18 15:35:00 2020 -0600
+
+    Made some nav bar changes
+
+commit a086d90c4bb4c8bb9f53a96e43e591ba469c8597
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Tue Feb 18 15:15:36 2020 -0600
+
+    static images for about page
+
+commit 352e8109538ecefd84888fb69c75cc60b1496579
+Author: Kevin Le <kevinvle1997@gmail.com>
+Date:   Tue Feb 18 14:00:48 2020 -0600
+
+    changed profile pic
+
+commit 2989f1b9c9806de80841195b8a91493e8b33b27b
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Tue Feb 18 08:51:35 2020 -0600
+
+    Closes #7
+
+commit 7cb5632aab277a137cbc102b52cd7cff12f90418
+Author: Kevin Le <kevinvle1997@gmail.com>
+Date:   Tue Feb 18 01:42:10 2020 -0600
+
+    changed up search navigation for a couple things
+
+commit ac605c45e82f7ac0a8d7122702746884b5fd9970
+Author: Kevin Le <kevinvle1997@gmail.com>
+Date:   Tue Feb 18 01:41:29 2020 -0600
+
+    added my profile in the about page!
+
+commit fe01df5ecec02d71bb24c2f412ec7f1962d82af7
+Author: Kevin Le <kevinvle1997@gmail.com>
+Date:   Tue Feb 18 01:18:14 2020 -0600
+
+    added my profile in the about page!
+
+commit a2d5182708a939edc427eb470191dad3fe1dce9c
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Mon Feb 17 23:20:28 2020 -0600
+
+    Added HTML files for artwork
+
+commit be69361d658c827ab63fc790e66c822dc1ce8f73
+Merge: 674669d 5670d4b
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Mon Feb 17 23:18:02 2020 -0600
+
+    Added images and html files for artists and artwork
+
+commit 5670d4bac61a2790a1ac7399982b265bbc34bf9a
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Mon Feb 17 23:14:44 2020 -0600
+
+    minor changes
+
+commit 674669db55967f1bb2c44bceeb30acb0f50d1283
+Merge: 98fd2ef 7912303
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Mon Feb 17 23:13:09 2020 -0600
+
+    Merge branch 'master' of https://gitlab.com/brendan56/project1
+
+commit 791230303ebc1bec61ef9e0f162c7f9ed307428e
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Mon Feb 17 23:04:29 2020 -0600
+
+    minor fix
+
+commit 98fd2efff741aba74cd7d96e7f2911c1cd7d43a9
+Merge: b010251 ee35005
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Mon Feb 17 23:01:14 2020 -0600
+
+    Merge branch 'master' of https://gitlab.com/brendan56/project1
+
+commit b010251b99b94f39e65bc6a0371e8a0ebd802f44
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Mon Feb 17 23:00:51 2020 -0600
+
+    Added images of paintings
+
+commit ee35005f3f53de6e99d0ed39f27c81b3e31ebb3f
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Mon Feb 17 22:55:24 2020 -0600
+
+    implemented a searchbar feature
+
+commit e58564de9415f46be66bd68493af6ab780fb893f
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Mon Feb 17 18:03:43 2020 -0600
+
+    Added a card and image
+
+commit 316282842e47294ab1d06cc22da6b5605efa2501
+Merge: 51f78fb eb20e5c
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Mon Feb 17 17:56:17 2020 -0600
+
+    resolved conflict
+
+commit 51f78fb9e51602207565115c770c4a7ee12a1609
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Mon Feb 17 17:53:08 2020 -0600
+
+    Sungho's card
+
+commit e3d61e83afb0a7e24e8042e6e3033dd3734d1d57
+Merge: f15cfbc 75fc202
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Mon Feb 17 17:49:37 2020 -0600
+
+    importing csv file and passing variables to artist.html and artwork.html
+
+commit eb20e5c1a9c3f6b95be37be2dd8f5febf8318486
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Mon Feb 17 12:40:16 2020 -0600
+
+    #2 merges splash page with index.html, #7 links gitlab and slack
+
+commit 8406fdea0d4e5d9b7c903754cda96c37ee23a0ad
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Mon Feb 17 12:26:10 2020 -0600
+
+    Added artist page and html files for artists
+
+commit 6d6234723a0b629d3ea9ba4badd707b3b5779482
+Author: Saideep Vollala <saideepvollala@gmail.com>
+Date:   Mon Feb 17 10:25:29 2020 -0600
+
+    Added saideep's image and description
+
+commit 8d1bc14635c3cd318ccac18ecc2667391e375712
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Sun Feb 16 21:57:21 2020 -0600
+
+    #7 adds images to about page
+
+commit f15cfbc9574e79cd7e352451770310da4c43b3c8
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Sun Feb 16 19:57:06 2020 -0600
+
+    .
+
+commit 75fc202ec9881c15a79de46ab96bea7baeabf67b
+Author: Jingqi Cheng <cjenny@cs.utexas.edu>
+Date:   Sun Feb 16 18:39:28 2020 -0600
+
+    splash page
+
+commit e4459405e9599cb7bc527ddbf1cc21a36249fca5
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Sun Feb 16 13:23:30 2020 -0600
+
+    #1 - implements splash and about page routing on nav bar, #7 place holders for about page, #5 replicates design to about page, #6 fills in brendan's card.
+
+commit 6ed84bf41b88f04e8a246afc5a630f091b1ef575
+Author: Sungho Park <98sungho@gmail.com>
+Date:   Sun Feb 16 00:21:43 2020 -0600
+
+    backend layout
+
+commit e41b84e245fb91cd95f6d3f2af9b62cca53d21fe
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Fri Feb 14 23:13:42 2020 -0600
+
+    nav bar and bootstrap links
+
+commit 9f937e4564827e5bb27ad23de552973785c44d56
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Fri Feb 14 22:30:29 2020 -0600
+
+    setting ground work for webpages
+
+commit e7dbde9d6889a06bf351681db114e111b659a74a
+Author: brendan56 <brendan.panici@utexas.edu>
+Date:   Wed Feb 12 11:06:34 2020 -0600
+
+    intial commit
+
+commit 39959551e109a022a952bc6ec54096565360bb54
+Author: brendan panici <brendan.panici@utexas.edu>
+Date:   Wed Feb 12 16:57:04 2020 +0000
+
+    Initial commit
