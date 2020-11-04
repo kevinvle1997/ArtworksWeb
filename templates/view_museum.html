@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+	<style>
+		body {
+		  overflow-x: hidden;
+		}
+	</style>
+	<title>Museum</title>
+	<!-- Bootstrap core CSS -->
+	<link rel="stylesheet" href="/static/css/bootstrap.min.css">
+	<!-- Your custom styles (optional) -->
+	<link rel="stylesheet" href="/static/css/style.css">
+	<!-- MDBootstrap Datatables  -->
+	<link href="/static/css/datatables.min.css" rel="stylesheet">
+	<!-- MDB icon -->
+	<link rel="icon" href="img/mdb-favicon.ico" type="image/x-icon">
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+
+</head>
+
+		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+		<a class="navbar-brand"> Artworks </a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+		<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+		<div class="navbar-nav">
+			<a class="nav-item nav-link" href="{{url_for('index')}}">Home</a>
+			<a class="nav-item nav-link" href="{{url_for('about')}}">About</a>
+			<a class="nav-item nav-link active" href="{{url_for('museum')}}">Museums<span class="sr-only">(current)</span></a>
+			<a class="nav-item nav-link" href="{{url_for('artist')}}">Artists</a>
+			<a class="nav-item nav-link" href="{{url_for('artist')}}">Artwork</a>
+		</div>
+		</div>
+		    <!-- search function -->
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+    <form class="form-inline ml-auto" method = "POST">
+      <div class="md-form my-0">
+        <input class="form-control" name = "data" type="text" placeholder="Search" aria-label="Search">
+      </div>
+     
+      <button href="" class="btn btn-secondary" type="submit">
+      	Submit
+      </button>
+ 	
+    </form>
+
+  </div>
+  <!-- search function -->
+	</nav>
+
+<body>
+    <div class="container">
+        <div class="card mb-3">
+            <img src="{{url_for('static', filename='../static/images/' + dictionary.museum|string + '.jpg')}}" class="card-img-top">
+            <div class="card-body">
+				<h1 class="card-title">{{dictionary.museum}}</h5> 
+				{% if dictionary.museum == "Museum of Modern Art" %}
+					<p class="card-text">The Museum of Modern Art was founded in 1929 by influential patrons like the Rockefellers, Mrs. Cornelius J. Sullivan, and numerous other dignitaries. It was meant to display the visual arts of their time and be ""the greatest museum of modern art in the world"". Over the years, the museum has expanded into many departments, and locations, resulting in its current midtown Manhattan location. Some of these departments include architecture and design, drawings and prints, film, media and performance, painting and sculpture, and photography. Its collection boasts of over 200,000 paintings, sculptures, drawings, etc, as well as an extensive library with over 320,000 items.</p>
+					<p class="card-text">Recently, in 2006, MoMA finished its largest expansion in the museum’s history, adding hundreds of thousands of square feet. Many new buildings were created for classrooms, auditoriums, and research.</p>
+					<p class="card-text">Source: https://www.moma.org/about/who-we-are/moma-history</p>
+				
+				{% else %}
+					<p class="card-text">The Tate Modern is part of a larger organization, Tate, which was founded by Henry Tate, a British businessman. In 1897, the first gallery was open to the public, showcasing a small collection of British artwork. The Tate organization has since expanded to four major galleries showcasing British and international artwork. The current Tate Modern building was established in 2000, as a venue to display modern art from around the world, and British classics from 1900 to present. It is the second most visited museum in the United Kingdom and is a major tourist attraction that brings in millions of pounds every year. </p>
+					<p class="card-text">The museum is divided into eight areas, each with a specific theme. These areas are not changed that frequently and remain as a standard display for tourists. In other halls, there are rotating exhibitions that display artwork from various walks of life. </p>
+					<p class="card-text">Source: https://www.tate.org.uk/about-us/history-tate/history-tate-modern</p>
+				{% endif %}
+
+			</div>
+        </div>
+    </div>
+</body>
+</html>

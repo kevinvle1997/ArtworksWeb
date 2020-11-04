@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+	<style>
+		body {
+		  overflow-x: hidden;
+		}
+	</style>
+	<title>About the Artworks Project</title>
+</head>
+
+	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+	  <a class="navbar-brand"> Artworks </a>
+	   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+	    <span class="navbar-toggler-icon"></span>
+	  </button>
+	  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+	    <div class="navbar-nav">
+	      <a class="nav-item nav-link" href="{{url_for('index')}}">Home</a>
+	      <a class="nav-item nav-link active" href="{{url_for('about')}}">About<span class="sr-only">(current)</span></a>
+	      <a class="nav-item nav-link" href="{{url_for('museum')}}">Museums</a>
+	      <a class="nav-item nav-link" href="{{url_for('artist')}}">Artists</a>
+	      <a class="nav-item nav-link" href="{{url_for('artwork')}}">Artwork</a>
+	    </div>
+	  </div>
+    <!-- search function -->
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+    <form class="form-inline ml-auto" method = "POST">
+      <div class="md-form my-0">
+        <input class="form-control" name = "data" type="text" placeholder="Search" aria-label="Search">
+      </div>
+     
+      <button href="" class="btn btn-secondary" type="submit">
+      	Submit
+      </button>
+ 	
+    </form>
+
+  </div>
+  <!-- search function -->
+	</nav>
+
+<body>
+	<br>
+	<center><h1>The Artworks Project</h1></center>
+	<center><div class="card">
+		<div class="card-body">
+			<h5> Most museums attempt to curate their exhibits online. Online viewings allow individuals to examine art pieces for research or personal purposes. However, it is often the case online art exhibits don’t encompass a museum's entire collection. Furthermore, the connections to other museums are not easily found due to museums' lack of coordination. The Artworks project attempts to remedy the lack of complete and intra-museum connections by curating data from multiple museums and modeling their relationships in an easy to navigate the environment. The goal is to allow individuals to easily connect an artist to their work no matter what museum it may be displayed at. Additionally, we want to provide art-goers an easier method to search through a large amount of art data. If an individual views an artwork while visiting a museum and decides they like that artist, Artworks can be used to find more artwork by that artist in several museums. Additionally, we hope to expose curious potentially inexperienced art goers to new artworks, artists, and museums. Ultimately, this can advise individuals on where to visit and what to expect at each museum. This project was developed in Spring 2020 in Dr. Fraij's software engineering course.</h5>		</div>
+	  </div></center>
+	<center><h2>Team Members</h2></center>
+	<br>
+	<!-- cards for each group member -->
+	<div class = "card-deck d-flex justify-content-center">
+		<div class="d-flex justify-content-center"> <!-- top row-->
+			<!-- brendan's card -->
+			<div class="card text-center text-white bg-dark mb-3" style="width: 18rem;">
+			  <img src="../static/images/brendan_panici.jpg" class="card-img-top" alt="...">
+			  <div class="card-body">
+			    <h5 class="card-title">Brendan Panici</h5>
+			    <h6 class="card-text text-muted"">Group Leader</h6>
+			    <p class="card-text">I'm a senior genetics student at UT Austin. I'm actively researching human disease and code regularly in R and python for my projects. </p>
+				<p class="card-text">Major Responsibilities: Front End Website Design, Back End Database Development, Technical Report Writing, Unit Testing</p>
+ 
+			</div>
+			  <div class="card-footer">
+     			<small class="text-muted">Commits: 88</small> <br>
+     			<small class="text-muted">Issues: 12</small> <br>
+     			<small class="text-muted">Tests: 3</small>
+    		  </div>
+			</div>
+
+			<!-- saideep's card -->
+			<div class="card text-center text-white bg-dark mb-3" style="width: 18rem;">
+			  <img src="../static/images/saideep_vollala.jpg" class="card-img-top" alt="...">
+			  <div class="card-body">
+			    <h5 class="card-title">Saideep Vollala</h5>
+			    <h6 class="card-text text-muted"">Front End Developer</h6>
+			    <p class="card-text">I am a junior mechanical engineering student at UT Austin. In the future, I'd like to work in the areas of robotics, energy, or defense</p>
+				<p class="card-text">Major Responsibilities: Front End Website Design, Technical Report Writing, Unit Testing</p>
+
+			  </div>
+			  <div class="card-footer">
+     			<small class="text-muted">Commits: 38 </small> <br>
+     			<small class="text-muted">Issues: 9 </small> <br>
+     			<small class="text-muted">Tests: 3 </small>
+    		  </div>
+			</div>
+			<!-- Sungho's card-->
+			<div class="card text-center text-white bg-dark mb-3" style="width: 18rem;">
+			  <img src="../static/images/sungho.jpg" class="card-img-top" alt="...">
+			  <div class="card-body">
+			    <h5 class="card-title">Sungho Park</h5>
+			    <h6 class="card-text text-muted"">Back End Developer</h6>
+			    <p class="card-text">I am a junior mathematics student at UT Austin. I am interested in Data Science, and I use Python and R to analyze data at my current job. </p>
+				<p class="card-text">Major Responsibilities: Data Base Development, Unit Testing</p>
+  			</div>
+			  <div class="card-footer">
+     			<small class="text-muted">Commits: 27 </small> <br>
+     			<small class="text-muted">Issues: 8 </small> <br>
+     			<small class="text-muted">Tests: 3 </small>
+    		  </div>
+			</div>
+
+
+		</div> 
+		<!-- bottom row-->
+
+			<div class="d-flex justify-content-center">
+
+				<div class="card text-center text-white bg-dark mb-3" style="width: 18rem;">
+			  		<img src="../static/images/kevin_le.jpg" class="card-img-top" alt="...">
+				  <div class="card-body">
+				    <h5 class="card-title">Kevin Le</h5>
+				    <h6 class="card-text text-muted"">Back End Developer</h6>
+				    <p class="card-text">I am a senior Math major at UT! Aspiring to become a software developer post grad! Some of my hobbies include cooking, tennis and mechanical keyboards! </p>
+					<p class="card-text">Major Responsibilities: Back End Development, Technical Report Writing, Unit Testing</p>
+ 
+				</div>
+				  <div class="card-footer">
+	     			<small class="text-muted">Commits: 20</small> <br>
+	     			<small class="text-muted">Issues: 8</small> <br>
+	     			<small class="text-muted">Tests: 3</small>
+	    		  </div>
+	    		</div>
+
+				<div class="card text-center text-white bg-dark mb-3" style="width: 18rem;">
+				  <img src="../static/images/jingqi_cheng.jpg" class="card-img-top" alt="...">
+				  <div class="card-body">
+				    <h5 class="card-title">Jingqi Cheng</h5>
+				    <h6 class="card-text text-muted"">Front End Developer</h6>
+					<p class="card-text">I am a junior Finance student at UT Austin. I'm also currently pursuing a certificate in Elements of Computing.</p>
+				    <p class="card-text">Major Responsibilities: Front End Website Design, Technical Report Writing, Unit Testing</p>
+
+				</div>
+				  <div class="card-footer">
+	     			<small class="text-muted">Commits: 20</small> <br>
+	     			<small class="text-muted">Issues: 8</small> <br>
+	     			<small class="text-muted">Tests: 3</small>
+	    		  </div>
+				</div>
+
+		</div>
+	</div>
+
+	<br>
+	<center><h2>Tools</h2></center>
+
+
+		<div class = "row d-flex justify-content-center">
+			<p>
+				<a href="https://slack.com/">
+				<img src="../static/images/slack.png" class="rounded" alt="..." width="100" height="100" style="border:0px;margin:35px;float:left;">
+				</a>
+			</p>
+			<p> 
+				<a href="https://about.gitlab.com/"> 
+				<img src="../static/images/gitlab.png" class="rounded" alt="..." width="100" height="100" style="border:0px;margin:35px;float:left;">
+				</a>
+			</p>
+			<p> 
+				<a href="https://getbootstrap.com/"> 
+				<img src="../static/images/bootstrap.png" class="rounded" alt="..." width="100" height="100" style="border:0px;margin:35px;float:left;">
+				</a>
+			</p>
+			<p> 
+				<a href="https://www.sqlalchemy.org/"> 
+				<img src="../static/images/sql_alchemy.jpg" class="rounded" alt="..." width="250" height="100" style="border:0px;margin:35px;float:left;">
+				</a>
+			</p>
+			<p> 
+				<a href="https://pandas.pydata.org/"> 
+				<img src="../static/images/pandas.png" class="rounded" alt="..." width="247.4" height="100" style="border:0px;margin:35px;float:left;">
+				</a>
+			</p>
+
+		</div>
+
+
+	<center><h2>Data</h2></center>
+
+		<div class = "row d-flex justify-content-center">
+			
+			<a href = "https://github.com/tategallery/collection">
+				<img src="../static/images/tate.png" class="rounded" alt="..." width="335.5" height="150" style="border:0px;margin:10px;float:left;">
+			</a>
+			<a href = "https://github.com/MuseumofModernArt/collection">
+				<img src="../static/images/moma.png" class="rounded" alt="..." width="150" height="150" style="border:0px;margin:10px;float:left;">
+			</a>
+		</div>
+	<center><h2>Project Stats</h2></center>
+	<br>
+
+		<div class = "row d-flex justify-content-center">
+		<div class="card text-center text-white bg-dark mb-3" style="width: 18rem;">
+			<div class="card-body">
+				<p class="card-text"><a href ="https://gitlab.com/brendan56/project1/issues" >GitLab Issue Tracker</a></p>
+				<p class="card-text"><a href ="https://gitlab.com/brendan56/project1/" >GitLab Repo</a></p>
+				<p class="card-text"><a href ="https://gitlab.com/brendan56/project1/-/wikis/The-Artworks-Project" >GitLab Wiki</a></p>
+				<p class="card-text"><a href ="https://docs.google.com/presentation/d/1ONQXbIycfQr-tIcpj8AIasREascJ40Wgh9fVtH8YqeE/edit?usp=sharing" >Google Slides</a></p>
+				<p class="card-text"><a href ="https://speakerdeck.com/jennycheng/the-artwork-project-814d2ff4-ed3e-4489-85f1-79ffddc419d6" >Speaker Deck</a></p>
+				<p class="card-text"><a href= "{{url_for('unit')}}">View Unit Cases</a>
+
+			</div>
+			<div class="card-footer">
+	     		<small class="text-muted">Total Commits: 193</small> <br>
+	     		<small class="text-muted">Total Issues: 45</small> <br>
+	     		<small class="text-muted">Total Tests: 15</small>
+	    	</div>
+		</div>
+		</div>
+
+
+</body>
+</html>
